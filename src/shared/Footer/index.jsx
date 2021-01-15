@@ -22,11 +22,6 @@ const Footer = () => {
         <Grid divided inverted stackable>
           <Grid.Column width={7}>
             <Image src={logo} size="large" />
-            {/* <Header inverted as="h4" content="Footer Header" />
-          <p>
-            Extra space for a call to action inside the footer that could help
-            re-engage users.
-          </p> */}
           </Grid.Column>
           <Grid.Column width={9}>
             <Header
