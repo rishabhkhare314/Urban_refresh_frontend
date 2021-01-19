@@ -1,0 +1,21 @@
+.refer-heading {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: #000;
+    margin-bottom: 12px;
+}
+
+.refer-subheading {
+    font-size: 18px;
+    line-height: 1.44;
+    color: #757575;
+    margin-bottom: 32px;
+}
+
+.refer {
+    border-top: 16px solid #f2f4f6;
+    margin-top: 100px;
+   
+/* #f0f0f0 */
+}
