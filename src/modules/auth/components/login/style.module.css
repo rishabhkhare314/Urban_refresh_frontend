@@ -1,0 +1,42 @@
+.authMain {
+    height: 100vh;
+    /* background-color: #eaeaea; */
+    background: url("./../../../../assets/images/triangles-1430105_1280.png") ;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .authContent {
+    left: 50%;
+    padding: 10vmin;
+    position: fixed;
+    text-align: center;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .authCard {
+    background-color: #ffffff;
+    box-shadow: 3px 3px 8px #888888;
+    border-radius: 4px;
+    width: 500px;
+    min-width: 300px;
+    text-align: center;
+  }
+  .authLogo {
+    width: 400px;
+    height: 50px;
+    /* padding: 50px; */
+    margin: 25px 10px 10px 11px;
+  }
+  .authForm {
+    margin-top: 35px;
+  }
+  .authInputField {
+    font-size: 18px;
+    margin-bottom: 25px !important;
+    max-width: 450px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }

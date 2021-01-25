@@ -1,0 +1,239 @@
+.categoryBanner{
+    background-image: url(https://res.cloudinary.com/urbanclap/image/upload/fl_progressive,t_medium_res_template/categories/category_v2/category_3e5fef70.jpeg);
+    /* background-position: 50%; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    height: 450px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    /* filter: brightness(0.5); */
+}
+
+.categoryBox{
+    padding: 5% 20%;
+    text-align: left;    color: #bdbdbd
+
+}
+.categoryheading{
+    font-size: 40px;
+    color: white;
+    padding-bottom: 20px;
+    font-weight: 700;
+    
+}
+
+.categorySubheading{
+    font-size: 17px !important;
+    line-height: 1.44;
+    color: #fff;
+    margin-bottom: 20px;
+    opacity: .6;
+}
+.serviceCategoryBox{
+    position: fixed;
+    top: 17%;
+    border-radius: 4px;
+    right: calc(40% - 500px);
+    z-index: 2;
+    width: 360px;
+    padding-bottom: 0!important;
+    border-bottom: none;
+    background-image: linear-gradient(130deg,#642b73,#c6426e);
+    background-color: #fff;
+    box-shadow: 9px 9px 0 0 rgba(0,0,0,.18);
+
+}
+.serviceButton{
+    text-align: left !important;
+    width:80%;
+    margin:0 10px 30px 30px  !important;
+    background-color: #fff !important;
+    padding: 20px !important;
+    color: black !important;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 100 !important;
+}
+.subHeading{
+    font-size: 18px;
+    color: white;
+    padding-top: 10px;
+    margin-left: 30px;
+    font-weight: 800
+  }
+.segment{
+    border: none !important;
+}
+
+  .reviews {
+    /* margin: auto; */ margin-left: 25%;
+    border: 2px solid #e2e2e2 !important;
+    background-color: #fff;
+    width: 40vw !important;
+    justify-content: center;
+    margin-top: 50px !important
+}
+
+.reviewsBody {
+    padding: 20px;
+}
+
+.reviewSubheading {
+    color: #757575;
+    line-height: 1.4;
+    font-weight: 500;
+}
+.providerImage {
+  
+    width: 5rem !important;
+    height: 5rem !important;
+    border-radius: 50% !important;
+    background: #0c540c !important;
+    text-align: center !important;
+    color: #fff !important;
+    font-size: 35px !important;
+    margin-top: 0px !important;
+    line-height: 11rem !important;
+    padding: 10px 2px;
+    top:-10px
+
+}
+.providerName{
+     font-size: 17px;line-height: 1.5 
+}
+/* .reviewName {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    line-height: 70px;
+    margin-top: 1px;
+  } */
+  .cardContent {
+    margin-left: 55px !important;
+}
+
+
+.customerImage {
+    width: 3.0rem !important;
+    height: 3.0rem !important;
+    border-radius: 50% !important;
+    background: #0c540c !important;
+    font-size: 25px !important;
+    color: #fff !important;
+    text-align: center !important;
+    line-height: 11rem !important;
+    margin-top: 0 !important;
+    padding: 5px 2px;
+}
+
+.customerReview {
+    width: 80% !important;   
+    border: none !important;
+    box-shadow: none !important;
+    margin: auto;
+    padding: 0px !important
+  }
+
+.providerReview{
+    width: 100% !important;
+    border: none !important;
+    /* box-shadow:none; */
+    padding: 0 !important
+}
+.works {
+    /* margin: auto; */
+     margin-left: 25%;
+    border: 2px solid #e2e2e2 !important;
+    background-color: #fff;
+    width: 40vw;
+    margin-top: 50px 
+}
+
+.worksBody{
+    padding: 20px;
+}
+.workIcon{font-size: 3rem !important;
+}
+
+.listContent{
+    border-bottom: 2px solid #f0f0f0 !important; 
+    width: 100% !important;
+    padding: 20px 40px !important;
+}
+.about {
+    background-color: #fff;
+    margin: auto;
+    border: 2px solid #e2e2e2 !important;
+    width: 40vw;
+    margin-left: 25%;
+    margin-top:50px
+}
+.aboutBody {
+    padding: 20px;
+}
+.aboutHeading{
+    font-weight: 900 !important;
+    line-height: 1.5 !important;
+    color: #212121 !important;       
+}
+
+.listText {
+    line-height: 2;
+    font-size: 16px;
+    line-height: 1.75;
+    letter-spacing: normal;
+    color: #616161;
+    margin: 0
+}
+
+.listHeading {
+    text-align: left;
+    font-size: 18px !important;
+    font-weight: 900 !important;
+    line-height: 1.5 !important;
+    color: #212121 !important;
+    /* margin: 0 40px 16px !important; */
+}
+
+.Faq{
+    margin-left: 25%;
+    border: 2px solid #e2e2e2 !important;
+    background-color: #fff;
+    width:40vw;
+    margin-top: 50px 
+}
+.FaqBody{   padding: 20px;
+
+}
+
+.faqLists {
+    width:600px;
+    border: 2px solid #e2e2e2;
+    margin-top: 20px;
+    /* height: 50px; */
+    font-size: 18px;
+
+}
+.faqContent{
+    padding: 5px 5px 5px 65px !important;
+    width: 500px;
+    /* margin: auto; */
+    font-size: 16px;
+}
+.arrowDown{
+    /* margin-left: 0px; */
+    background-color: #e2e2e2;
+    padding: 10px;
+    font-size: 1.5em !important;
+    border-radius: 100em!important;
+    margin: auto;
+}
+
+
+.FAQQ {
+    padding: 1em !important;
+    
+}

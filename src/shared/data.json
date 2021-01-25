@@ -1,0 +1,119 @@
+{
+  "cityData": [
+    {
+      "id":"111",
+      "countryName": "India",
+      "cities": [
+        {
+          "id": "1",
+          "cityName": "Ahmedabad"
+        },
+        {
+          "id": "2",
+
+          "cityName": "Surat"
+        },
+        {
+          "id": "3",
+
+          "cityName": "Delhi"
+        },
+        {
+          "id": "4",
+
+          "cityName": "kanpur"
+        }
+     
+      ]
+    },
+    {
+      "id":"22",
+      "countryName": "Australia",
+      "cities": [
+        {
+          "id": "8",
+
+          "cityName": "Sydney"
+        }
+      ]
+    },
+    {
+      "id":"33",
+      "countryName": "UAE",
+      "cities": [
+        {
+          "id": "9",
+
+          "cityName": "Dubai"
+        },
+        {
+          "id": "10",
+
+          "cityName": "Abu Dhabi"
+        }
+      ]
+    },
+    {
+      "id":"44",
+      "countryName": "Singapore",
+      "cities": [
+        {
+          "id": "11",
+
+          "cityName": "Singapore"
+        }
+      ]
+    }
+  ],
+  "serviceSubCategories" :[
+    {
+      "id":1,
+      "name" : "Quick Book",
+      "price" : 999,
+      "description" : "Waste Pipe service the all material has been provided by the Service Provider"
+    },
+    {
+      "id" :2,
+      "name" : "Waste Pipe",
+      "price" : 1099,
+      "description" : "Waste Pipe service the all material has been provided by the Service Provider"
+    },{
+      "id" :3,
+      "name" : "Wash Basin Installaton ",
+      "price" : 1199,
+      "description" : "Waste Pipe service the all material has been provided by the Service Provider"
+    },{
+      "id" :4,
+      "name" : "Bath Fitting Installaton ",
+      "price" : 1599,
+      "description" : "Waste Pipe service the all material has been provided by the Service Provider"
+    },{
+      "id" :5,
+      "name" : "Balcony Pipe",
+      "price" : 1099,
+      "description" : "Waste Pipe service the all material has been provided by the Service Provider"
+    },{
+      "id" :6,
+      "name" : "Hot & Cold Water Installation",
+      "price" : 999,
+      "description" : "Waste Pipe service the all material has been provided by the Service Provider"
+    }
+  ],
+  "serviceCategories":[
+    {
+      "id":1,
+      "name":"Pipe/ Tap Fitting"
+    }, {
+      "id":2,
+      "name":"Water Lekages"
+    }, {
+      "id":3,
+      "name":"Repair &#38; fixes"
+    }, {
+      "id":4,
+      "name":"   Installation Service"
+    }
+  ]
+}
+
+

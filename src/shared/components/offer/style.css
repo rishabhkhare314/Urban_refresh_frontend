@@ -1,0 +1,13 @@
+.offer-images{
+    width: 242px !important;
+    height: 170px !important;
+    padding: 20px !important;
+    border-radius: 30px !important;
+    transition: all 2s ease;
+    overflow: hidden !important;
+}
+
+/* .offer-images:hover{
+    width: 360px !important;
+    height: 200px !important;
+} */
